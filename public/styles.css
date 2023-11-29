@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.container {
+    background-color: bisque;
+}
+
+button[type=submit] {
+    background-color: black;
+    outline: none;
+}
